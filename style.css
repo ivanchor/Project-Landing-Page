@@ -19,7 +19,7 @@ body {
     width: 80%;
 }
 
-.header_color, .hero_color {
+.dark_background_color {
     background: #1F2937;
 }
 
@@ -121,6 +121,7 @@ ul {
     display: flex;
     flex-direction: column;
     width: 50%; 
+    
 }
 
 .quote {
@@ -128,9 +129,16 @@ ul {
     color: #1f2937;
     font-weight: 300;
     font-style: italic;
+    margin-bottom: -5px;
 }
 
 .author {
     align-self: self-end;
     font-weight: 700;
+}
+
+/* Call to Action Section */
+
+.call_to_action {
+    background-color: blue
 }

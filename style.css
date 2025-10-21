@@ -139,6 +139,16 @@ ul {
 
 /* Call to Action Section */
 
+.call_to_action, .sign_up_button{
+    background-color: #3882F6;
+    border-radius: 10px;
+}
+
 .call_to_action {
-    background-color: blue
+    display: flex;
+    padding: 0 10px;    
+}
+
+.sign_up_button {
+    border-color: white;    
 }

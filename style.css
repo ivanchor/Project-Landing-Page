@@ -146,9 +146,16 @@ ul {
 
 .call_to_action {
     display: flex;
-    padding: 0 10px;    
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px;  
+    gap: 10px;  
 }
 
 .sign_up_button {
-    border-color: white;    
+    border-color: white;
+    color: white;
+    border-width: 3px;
+    height: 40px;
+    width: 180px;   
 }

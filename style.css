@@ -10,13 +10,13 @@ body {
 }
 
 .section {
-    padding: 20px;
+    padding: 10px 0px;
     width: 100%;
 }
 
 .content {
     margin: 0 auto;
-    width: 80%;
+    width: 60%;
 }
 
 .dark_background_color {
